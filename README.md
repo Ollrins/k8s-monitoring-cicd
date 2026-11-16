@@ -1,4 +1,4 @@
-# Дипломный практикум: Развёртывание Kubernetes кластера в Yandex Cloud
+# Развёртывание Kubernetes кластера в Yandex Cloud
 
 ## Создание инфраструктуры с помощью Terraform
 
